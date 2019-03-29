@@ -1,0 +1,20 @@
+Step 1:
+  Problem Statement/Highlighting
+  
+Step 2:
+  One Sentence Problem Statement
+  
+Step 3:
+  List of Do Somethings
+  
+Step 4:
+  Solve Problem by Hand
+  
+Step 5:
+  Flowchart - See external file
+  
+Step 6:
+  Psuedocode
+  
+Step 7:
+  Are 4 & 5 in Sync?
