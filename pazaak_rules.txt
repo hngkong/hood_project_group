@@ -1,0 +1,49 @@
+Pazaak: General Functions/Rule of Thumb 
+
+ 
+
+Object: Board 
+
+Associated Fields: player1Count, player2Count, player1Deck, Player2Deck, player1Score, player2Score 
+
+Associated Methods: dealCard(nextPlayer) - this function will do Random Number Generated and add to a randomized card/number to the next players count total. 
+
+ 
+
+Object: Deck 
+
+Associated Fields: card1, card2, card3, card4 
+
+Associated Methods:  
+
+GenerateCards() - this function will use RNG to assign values to the 4 card fields above 
+
+UseCard(card#) - this function will make a specified card empty so it cannot be used again by the player 
+
+ 
+
+Object: Main 
+
+Fields: N/A 
+
+Methods: main() - this function will have the program / game logic and rules, it will use the above two objects to play out a game 
+
+**Need two decks and 1 board within main: 
+
+One deck for Player1 
+
+One deck for Player 2 
+
+One board in which both decks will be apart of . 
+
+ 
+
+ 
+
+Project Proposal Part #1: 
+
+1. Power point file (Title slide and description slide) 
+
+2. Tech Report Intro section (use first 2 steps of the 9-step guidelines) 
+
+3. Project poster (draft electronics version) 
